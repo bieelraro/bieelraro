@@ -1,43 +1,31 @@
-## Olá, sou o Bieel, Desenvolvedor Back-End 👨‍💻
+## Olá, sou o Bieel 👋
 
-Atualmente focado em desenvolvimento Back-End, mas buscando aprender cada vez mais sobre Front-End. Sempre em evolução, estudando novas tecnologias e boas práticas de programação para criar soluções cada vez melhores!
-
----
-
-### 🏆 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bieelraro&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieelraro&layout=compact&theme=default" height="160"/>
-</p>
+Desenvolvedor Back-End com interesse em aprender mais sobre Front-End. Sempre buscando evoluir e adquirir novos conhecimentos.
 
 ---
 
-### 🛠 Tecnologias que Uso
+### 🛠️ Tecnologias e Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ---
 
-### 🌐 Redes Sociais
+### 📊 Estatísticas do GitHub
 
-<p>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bieelraro&show_icons=true&theme=default)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bieelraro&layout=compact&theme=default)
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/seu-perfil)
+[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/users/seu-id)
