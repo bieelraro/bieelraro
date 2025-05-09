@@ -45,3 +45,9 @@
 <p align="center">
   Obrigado por visitar meu perfil! ⭐
 </p>
+
+### 🐍 Snake comendo meus commits!
+
+<p align="center">
+  <img src="https://github.com/joaogabriel/joaogabriel/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
