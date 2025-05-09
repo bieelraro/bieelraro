@@ -49,5 +49,5 @@
 ### 🐍 Snake comendo meus commits!
 
 <p align="center">
-  <img src="https://github.com/joaogabriel/joaogabriel/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/bieelraro/bieelraro/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
