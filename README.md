@@ -1,4 +1,4 @@
-## Olá, sou o Bieel, Desenvolvedor Back-End 👨‍💻
+## Olá, sou o Bieel, Estudante de Engenharia de Software 👨‍💻
 
 Atualmente focado em desenvolvimento Back-End, mas buscando aprender cada vez mais sobre Front-End. Sempre em evolução, estudando novas tecnologias e boas práticas de programação para criar soluções cada vez melhores!
 
