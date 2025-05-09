@@ -1,31 +1,45 @@
-## Olá, sou o Bieel 👋
+# bieelraro / README.md
 
-Desenvolvedor Back-End com interesse em aprender mais sobre Front-End. Sempre buscando evoluir e adquirir novos conhecimentos.
+## Olá, sou o Bieel, Desenvolvedor Back-End 👨‍💻
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+Atualmente focado em desenvolvimento Back-End, mas sempre aprendendo mais sobre Front-End. Estou constantemente aprimorando minhas habilidades e conhecimentos.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🧰 Tecnologias que Uso
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bieelraro&show_icons=true&theme=default)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bieelraro&layout=compact&theme=default)
+<p>
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+</p>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/seu-perfil)
-[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/users/seu-id)
+<p>
+  <a href="https://www.linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/seu-perfil">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
+  </a>
+  <a href="https://discord.com/users/seu-id">
+    <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" />
+  </a>
+</p>
+
+---
+
+## 🏆 Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bieelraro&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieelraro&layout=compact&theme=default" height="150"/>
+</p>
