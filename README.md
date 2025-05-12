@@ -1,5 +1,3 @@
-# bieelraro / README.md
-
 ## Olá, sou o Bieel, Desenvolvedor Back-End 👨‍💻
 
 Atualmente focado em desenvolvimento Back-End, mas sempre aprendendo mais sobre Front-End. Estou constantemente aprimorando minhas habilidades e conhecimentos.
