@@ -25,10 +25,10 @@ Atualmente focado em desenvolvimento Back-End, mas sempre aprendendo mais sobre 
   <a href="https://www.linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/seu-perfil">
+  <a href="https://www.instagram.com/joaogabriel.30">
     <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
   </a>
-  <a href="https://discord.com/users/seu-id">
+  <a href="https://discord.com/users/588541273128828959">
     <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" />
   </a>
 </p>
